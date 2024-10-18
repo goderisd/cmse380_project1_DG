@@ -27,4 +27,6 @@ V3 is where I took the lessons learned on handling the massive flights data set,
 
   Visualization is where the EDA largley has occured, I built many plots in there to visualize some of the trends that I could start to explore when we begin learning models 
 
-  Finally, for the streamlit app there is a pyhton script in "pythonProject" which i wrote using pycharm.  If you want ot run it with a different IDE you may have to alter the path to the csvs in the beginning of the program becuase I have it set up to look up 1 directoy level.
+  I attached the .py script to run a local streamlit app that can execute teh full 2022 flight data.
+
+  Finally, for the hosted streamlit app there is a pyhton script in the other github repo attached in d2l which i wrote using pycharm. I ahd to down sample the final data files by 1% to get streanlit to accept the hosting, so the visuals for the hosted app dont look so clean. However, if ran on local machine it looks very good 
